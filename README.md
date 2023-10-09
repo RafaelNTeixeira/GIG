@@ -15,14 +15,3 @@ You can find here details about the app, from a high-level vision to low-level i
   - [Board Progression](https://github.com/FEUP-LEIC-ES-2022-23/2LEIC12T2/blob/master/docs/Management.md)
 <br></br>
 
-So far, contributions are exclusively made by the initial team, but we hope to open them to the community, in all areas and topics: requirements, technologies, development, experimentation, testing, etc.
-
-Please contact us!
-
-Thank you!
-
-## Members
-Rafael Teixeira - 202108831 <br>
-Bruno Duvane - 202109244 <br>
-Eduardo Oliveira - 202108690 <br>
-Xavier Outeiro - 202108895 <br>
