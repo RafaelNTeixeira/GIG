@@ -1,4 +1,4 @@
-# 2LEIC12T2
+# GIG
 
 - **Used Programming Languages:** Flutter
 - **Backend Service:** Firebase
