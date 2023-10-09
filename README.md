@@ -1,5 +1,10 @@
 # 2LEIC12T2
 
+- **Used Programming Languages:** Flutter
+- **Backend Service:** Firebase
+- **Used Database:** Firestore
+
+
 # GIG Development Report
 
 Welcome to the documentation pages of GIG!
